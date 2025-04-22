@@ -94,9 +94,3 @@ Kavigai is not just a mentorship platform—it’s a **growth accelerator** powe
 ---
 
 ### **© Nasotech LLC 2024** | *Empowering Dreams with AI & Mentorship*  
-
----
-
-🎨 **Designed with Love & AI** – Because **great mentorship should be beautiful.** 💖  
-
-Would you like any refinements or additional sections? 😊
