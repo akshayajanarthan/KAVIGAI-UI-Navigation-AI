@@ -76,16 +76,6 @@ Kavigai is not just a mentorship platform—it’s a **growth accelerator** powe
 
 ---
 
-## 🛠 **Tech Stack**  
-
-| **Frontend** | React.js, React Native |  
-| **Backend** | Node.js, Express |  
-| **Database** | MongoDB |  
-| **AI/ML** | Python, TensorFlow |  
-| **Cloud** | AWS |  
-
----
-
 ## 🤝 **Join the Kavigai Community**  
 
 💬 **Have questions?** [**Contact Us**](mailto:info@nasotech.com)  
