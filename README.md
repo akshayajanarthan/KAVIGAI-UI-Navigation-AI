@@ -56,8 +56,7 @@ Kavigai is not just a mentorship platform—it’s a **growth accelerator** powe
 | **Active Goals** | 3 Free + 3 Paid | **Unlimited** |  
 | **Mentors** | 1 Free + 2 Paid | **Unlimited** |  
 | **AI Recommendations** | Basic | **Advanced** |  
-| **Analytics Dashboard** | ❌ | ✅ |  
-| **Ads** | Yes | Minimal |  
+| **Analytics Dashboard** | ❌ | ✅ | 
 
 **✨ Pro users get:**  
 ✔ Priority support  
